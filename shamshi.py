@@ -55,7 +55,7 @@ def gameLoop():
  
         while game_close == True:
             dis.fill(blue)
-            message("Restart- C, Quit - Q", green)
+            message("Restart- C ,  Quit - Q", green)
  
             pygame.display.update()
  
