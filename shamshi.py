@@ -15,7 +15,7 @@ dis_width = 600
 dis_height = 400
  
 dis = pygame.display.set_mode((dis_width, dis_height))
-pygame.display.set_caption('ShamIlon')
+pygame.display.set_caption('ShamSnake')
  
 clock = pygame.time.Clock()
  
@@ -55,7 +55,7 @@ def gameLoop():
  
         while game_close == True:
             dis.fill(blue)
-            message("Restart uchun - C, Chiqish uchun - Q", green)
+            message("Restart- C, Quit - Q", green)
  
             pygame.display.update()
  
