@@ -7,6 +7,8 @@ Game:
 
 pip install ursina
 
+pip install pygame
+
 git clone https://github.com/Muxitdinovich/shamshi.git
 </pre>
 
