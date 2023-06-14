@@ -14,7 +14,7 @@ git clone https://github.com/Muxitdinovich/Snake.git
 cd Snake
 </pre>
 
-# Run:
+# Запустить
 
 <pre>
 python shamshi.py
