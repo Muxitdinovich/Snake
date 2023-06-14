@@ -12,10 +12,10 @@ pip install pygame
 git clone https://github.com/Muxitdinovich/Snake.git
 </pre>
 
-Run:
+# Run:
 
 <pre>
 python shamshi.py
 </pre>
 
-Поддержка: https://hablonly.netlify.app 👈
+# Поддержка: https://hablonly.netlify.app 👈
