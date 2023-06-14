@@ -10,6 +10,8 @@ pip install ursina
 pip install pygame
 
 git clone https://github.com/Muxitdinovich/Snake.git
+
+cd Snake
 </pre>
 
 # Run:
